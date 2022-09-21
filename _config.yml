@@ -1,8 +1,8 @@
-title: Hamilton
+title: Blog Personal
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+author: Antonio Rodríguez Cortés
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: jantonio96cr@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -42,7 +42,6 @@ social:
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
-plugins:
-  - jekyll-remote-theme
+
 
 remote_theme: ngzhio/jekyll-theme-hamilton
